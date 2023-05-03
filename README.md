@@ -1,4 +1,4 @@
-# ArtificialIntelligenceMaterials
+# Artificial Intelligence Materials
 Collection of Notes, Labs, Templates for Courses of the MEng in Artificial Intelligence, University of Bologna
 
 A.Y. 2022/2023
