@@ -1,7 +1,7 @@
 # Artificial Intelligence Materials
 Collection of Notes, Labs, Templates for Courses of the MEng in Artificial Intelligence, University of Bologna
 
-A.Y. 2022/2023
+### A.Y. 2022/2023
 - Deep Learning (DL - Prof. Asperti):
     -  Class Notes:
         - 01: From the Introduction to Convolutional Neural Networks and Transfer Learning
@@ -11,3 +11,6 @@ A.Y. 2022/2023
 - Combinatorial Decision Making and Optimization (CDMO - Prof. Kiziltan and Prof. Amadini):
     - Class Notes:
         - Constraint Programming
+- Languages and Algorithms for Artificial Intelligence (LAAI)
+    - Mod3 (Prof. Dal Lago)
+        - Computability and Complexity Theory
