@@ -11,7 +11,10 @@ Collection of Notes, Labs, Templates for Courses of the MEng in Artificial Intel
 - Combinatorial Decision Making and Optimization (CDMO - Prof. Kiziltan and Prof. Amadini):
     - Class Notes:
         - Constraint Programming
+        - SAT
+        - SMT
 - Languages and Algorithms for Artificial Intelligence (LAAI)
     - Mod3 (Prof. Dal Lago)
         - Computability and Complexity Theory
         - Computational Learning Theory
+        - Set of Exercises and Theorem Proofs from Class
