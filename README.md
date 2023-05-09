@@ -14,3 +14,4 @@ Collection of Notes, Labs, Templates for Courses of the MEng in Artificial Intel
 - Languages and Algorithms for Artificial Intelligence (LAAI)
     - Mod3 (Prof. Dal Lago)
         - Computability and Complexity Theory
+        - Computational Learning Theory
