@@ -18,3 +18,7 @@ Collection of Notes, Labs, Templates for Courses of the MEng in Artificial Intel
         - Computability and Complexity Theory
         - Computational Learning Theory
         - Set of Exercises and Theorem Proofs from Class
+- Image Processing and Computer Vision (IPCV - Prof. Lisanti and Prof. Salti)
+    - Module 1 Notes
+- Cognition and Neuroscience (CN - Prof. Starita and Prof. Di Pellegrino)
+    - Module 1 Notes
